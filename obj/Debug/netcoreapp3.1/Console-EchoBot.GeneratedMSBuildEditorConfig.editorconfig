@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Console-EchoBot
+build_property.ProjectDir = C:\Users\Dmitry\Desktop\botbuilder-samples\samples\csharp_dotnetcore\01.console-echo\
